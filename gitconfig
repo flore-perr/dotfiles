@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fmperrette@gmail.com
+	name = flore perrette
